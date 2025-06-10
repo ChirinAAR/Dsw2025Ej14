@@ -2,6 +2,10 @@
 ## Desarrollo de Software
 ### API Web
 
+
+Abregu Rey Emiliano Jose 3K4
+Francisco Dini Domijan 3K1
+
 ## Tareas
 Bifurcar (fork) el repositorio.
 
